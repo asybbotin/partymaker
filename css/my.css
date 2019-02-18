@@ -1,0 +1,9 @@
+#preload-01 { background: url(/img/portfolio/album/first/preview-color.jpg) no-repeat -9999px -9999px; }
+#preload-02 { background: url(/img/portfolio/album/second/preview-color.jpg) no-repeat -9999px -9999px; }
+#preload-03 { background: url(/img/portfolio/album/third/preview-color.jpg) no-repeat -9999px -9999px; }
+#preload-04 { background: url(/img/portfolio/album/fourth/preview-color.jpg) no-repeat -9999px -9999px; }
+#preload-05 { background: url(/img/portfolio/album/fifth/preview-color.jpg) no-repeat -9999px -9999px; }
+#preload-06 { background: url(/img/portfolio/album/six/preview-color.jpg) no-repeat -9999px -9999px; }
+a:focus{
+  outline: none;
+}
