@@ -315,16 +315,16 @@
             </div>
                 
             <div class="row">
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-phone fa-4x sr-contact"></i>
                     <p>+38(050)445-00-40</p>
                 </div>
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-facebook-square fa-3x sr-contact"></i>
-                    <p><a href="https://www.facebook.com/profile.php?id=100010847550436&fref=ts"  target="_blank">facebook.com</a></p>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-facebook-square fa-4x sr-contact"></i>
+                    <p><a href="https://www.facebook.com/partywithkatya"  target="_blank">facebook.com</a></p>
                 </div>
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-4x sr-contact"></i>
                     <p><a href="mailto:subbotina.kateryna@gmail.com">subbotina.kateryna@gmail.com</a></p>
                 </div>
             </div>
