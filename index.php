@@ -89,10 +89,9 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Добро пожаловать!<br />Присаживайтесь по-удобнее, будем знакомиться. </h2>
                     <hr class="light">
-                    <p class="text-faded">Я ведущая праздников Катя Субботина. Да, пришлось поискать мужа с подходящей фамилией.</p>
+                    <p class="text-faded">Я ведущая праздников Катя Субботина.<br />Да, пришлось поискать мужа с подходящей фамилией.</p>
                     <p class="text-faded">И если Вы тоже наконец-то встретили свою вторую половинку - искренне поздравляю!</p>
-                    <p class="text-faded">Давайте праздновать  это радостное событие вместе! </p>
-                    <p class="text-faded">Точнее  Вы празднуете  - а я сделаю так, что всё пройдет круто. </p>
+                    <p class="text-faded">Давайте праздновать  это радостное событие вместе!<br />Точнее  Вы празднуете  - а я сделаю так, что всё пройдет круто. </p>
                     <!--<a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>-->
                 </div>
             </div>
@@ -309,9 +308,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Всегда на связи!</h2>
+                    <h2 class="section-heading">Если Вы читаете эту строку - значит мы уже друг другу интересны.<br /> Продолжение по телефону!</h2>
                     <hr class="primary">
-                    <p>Звоните, пишите. С радостью отвечу на все интересующие вас вопросы.<br /> Все контакты ниже.</p>
+                    <p>И, кстати, если задействовать в разговоре промокод "Ягода-малина, Катя-Катерина" -  скидка 10% Вам гарантирована.</p>
                 </div>
             </div>
                 
@@ -325,12 +324,8 @@
                     <p><a href="https://www.facebook.com/profile.php?id=100010847550436&fref=ts"  target="_blank">facebook.com</a></p>
                 </div>
                 <div class="col-lg-3 text-center">
-                    <i class="fa fa-vk fa-3x sr-contact"></i>
-                    <p><a href="https://vk.com/partywithkathy" target="_blank">vk.com</a></p>
-                </div>
-                <div class="col-lg-3 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:subbotina-katya@mail.ua">subbotina-katya@mail.ua</a></p>
+                    <p><a href="mailto:subbotina.kateryna@gmail.com">subbotina.kateryna@gmail.com</a></p>
                 </div>
             </div>
         </div>      
