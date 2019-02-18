@@ -15,7 +15,8 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
@@ -315,16 +316,20 @@
             </div>
                 
             <div class="row">
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-phone fa-4x sr-contact"></i>
+                <div class="col-lg-3 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
                     <p>+38(050)445-00-40</p>
                 </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-facebook-square fa-4x sr-contact"></i>
+                <div class="col-lg-3 text-center">
+                    <i class="fab fa-instagram fa-3x sr-contact"></i>
+                    <p><a href="https://www.instagram.com/subbotina_party"  target="_blank">instagram.com</a></p>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <i class="fab fa-facebook-square fa-3x sr-contact"></i>
                     <p><a href="https://www.facebook.com/partywithkatya"  target="_blank">facebook.com</a></p>
                 </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-envelope-o fa-4x sr-contact"></i>
+                <div class="col-lg-3 text-center">
+                    <i class="fas fa-envelope fa-3x sr-contact"></i>
                     <p><a href="mailto:subbotina.kateryna@gmail.com">subbotina.kateryna@gmail.com</a></p>
                 </div>
             </div>
